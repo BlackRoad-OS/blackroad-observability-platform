@@ -1,26 +1,14 @@
-# 🖤🛣️ BlackRoad Observability Platform
+# BlackRoad observability-platform
 
-**Wave 7** | Part of the BlackRoad Product Empire - 400+ enterprise solutions
+Full-stack observability with logs, metrics, traces.
 
-## 🚀 Quick Start
+## Features
+- Self-hosted and sovereign
+- Full data ownership
+- Enterprise-grade reliability
+- BlackRoad ecosystem integration
 
-```bash
-./blackroad-observability-platform.sh
-```
+## License
 
-## 🎨 BlackRoad Design System
-
-- **Hot Pink**: #FF1D6C
-- **Amber**: #F5A623  
-- **Electric Blue**: #2979FF
-- **Violet**: #9C27B0
-
-## 📚 Documentation
-
-Full docs: https://docs.blackroad.io
-
-## 🖤 BlackRoad Empire
-
-Part of **400+ products** across **52 categories**. Built with ∞ vision.
-
-**BlackRoad OS, Inc.** | Built with Claude | Wave 7
+Copyright (c) 2026 BlackRoad OS, Inc. All rights reserved.
+Proprietary software. For licensing: blackroad.systems@gmail.com
